@@ -1,4 +1,5 @@
-# Hi there, I am Tenzin! ![My GIF](https://media.giphy.com/media/GqXtCPsa1edJ6/giphy.gif)
+# Hi there, I am Tenzin! 
+#![My GIF](https://media.giphy.com/media/GqXtCPsa1edJ6/giphy.gif)
 
 ## About Me 👽
 
