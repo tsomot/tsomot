@@ -9,5 +9,5 @@ My journey in tech has been a thrilling ride, and I'm always eager to learn new 
 
 ## How to Reach Me
 
-📝 You can also find my portfolio at [TenzinTsomo](https://TenzinTsomo.com)
-🤝 And making connections on [LinkedIn](https://www.linkedin.com/in/tenzintsomo)
+📝 You can also find my portfolio at [TenzinTsomo](https://tenzintsomo.online)
+🤝 And making connections on [LinkedIn](https://www.linkedin.com/in/tenzin-tsomo-0531031a2/)
